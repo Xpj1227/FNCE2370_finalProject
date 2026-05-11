@@ -1,0 +1,19 @@
+metric,value
+avg learned(training path) w1,1.0180499999999668
+avg learned(training path) w2,-0.4082499999999999
+avg learned(training path) w3,0.3901999999999873
+fixed policy w1,1.1
+fixed policy w2,-0.5
+fixed policy w3,0.4
+grid benchmark w1,1.0
+grid benchmark w2,-0.5
+grid benchmark w3,0.5
+distance avg learned(training path) to grid,0.1442217216649476
+mean reward gap vs grid,3.281427632258668e-05
+final cumulative reward gap vs grid,0.16407138161293375
+continuous benchmark w1,0.9835435806138578
+continuous benchmark w2,-0.5
+continuous benchmark w3,0.5164564193861423
+distance avg learned(training path) to continuous,0.15984191851658536
+mean reward gap vs continuous,3.190855693323886e-05
+final cumulative reward gap vs continuous,0.15954278466619415
